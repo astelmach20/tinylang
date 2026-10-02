@@ -2,7 +2,7 @@
 
 Tinylang is a Python library that provides a unified interface for interacting with various Large Language Models (LLMs) including OpenAI's GPT, Anthropic's Claude, and Google's Gemini.
 
-[Documentation](https://astelmach01.github.io/tinylang/)
+[Documentation](https://astelmach20.github.io/tinylang/)
 
 ## Features
 
@@ -86,7 +86,7 @@ This project is licensed under the MIT License.
 
 ## More Information
 
-For more detailed information about using Tinylang, please refer to our [documentation](https://astelmach01.github.io/tinylang/).
+For more detailed information about using Tinylang, please refer to our [documentation](https://astelmach20.github.io/tinylang/).
 
 ## To be Added
 

@@ -1,5 +1,5 @@
 site_name: Tinylang
-site_url: https://astelmach01.github.io/tinylang/
+site_url: https://astelmach20.github.io/tinylang/
 nav:
   - 'Introduction': 'index.md'
   - 'Getting Started': 'getting_started.md'
@@ -38,7 +38,7 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
 repo_name: tinylang/tinylang
-repo_url: https://github.com/astelmach01/tinylang
+repo_url: https://github.com/astelmach20/tinylang
 plugins:
   - search
 markdown_extensions:
